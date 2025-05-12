@@ -1,0 +1,43 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="plugin.video.cinemakitty"
+       name="CinemaKitty"
+       version="1.0.0"
+       provider-name="Fantomas">
+    <requires>
+        <import addon="xbmc.python" version="2.26.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Doplněk pro přehrávání filmů a seriálů z Webshare</summary>
+        <description>CinemaKitty je Kodi doplněk zaměřený na přehrávání obsahu z Webshare.</description>
+        <platform>all</platform>
+        <language>cs</language>
+    </extension>
+</addon>
+</addons>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="plugin.video.cinemakitty"
+       name="CinemaKitty"
+       version="1.0.0"
+       provider-name="Fantomas">
+    <requires>
+        <import addon="xbmc.python" version="2.26.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Doplněk pro přehrávání filmů a seriálů z Webshare</summary>
+        <description>CinemaKitty je Kodi doplněk zaměřený na přehrávání obsahu z Webshare.</description>
+        <platform>all</platform>
+        <language>cs</language>
+    </extension>
+</addon>
+</addons>
+>>>>>>> faaf29928cd8457c27a808e7a108a40df4e1c84c
