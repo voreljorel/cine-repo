@@ -10,9 +10,9 @@
     <extension point="xbmc.addon.repository"
                name="CinemaKitty Repository">
         <dir>
-            <info>https://voreljorel.github.io/cinemakitty-repo/addons.xml</info>
-            <checksum>https://voreljorel.github.io/cinemakitty-repo/addons.xml.md5</checksum>
-            <datadir>https://voreljorel.github.io/cinemakitty-repo/</datadir>
+            <info>https://voreljorel.github.io/cine-repo/addons.xml</info>
+            <checksum>https://voreljorel.github.io/cine-repo/addons.xml.md5</checksum>
+            <datadir>https://voreljorel.github.io/cine-repo/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
